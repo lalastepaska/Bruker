@@ -1,0 +1,8 @@
+Acidity value un
+Protein %
+Fat %
+Ash %
+Moisture %
+Calcium	%
+Phosphorus %
+Colour value un

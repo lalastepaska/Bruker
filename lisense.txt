@@ -1,0 +1,7 @@
+Name TANGO-R SYSTEM
+Company Saria Bio-Industries Volga Ltd
+Instrument 1776
+OPUS Serial 3012666071
+Package Serial 2456629582 - 4057816114
+Library Serial
+Key 1032Z01032C0
