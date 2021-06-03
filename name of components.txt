@@ -6,3 +6,6 @@ Moisture %
 Calcium	%
 Phosphorus %
 Colour value un
+Peroxide value un
+BHA mg/kg
+BHT mg/kg
