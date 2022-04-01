@@ -21,7 +21,7 @@ ____
 |Moisture|%|
 |Calcium|%|
 |Phosphorus|%|
-|Digestibility|un|
+|Digestibility|%|
 |Histamine|ppm|
 
 ***Важное уточнение!***
