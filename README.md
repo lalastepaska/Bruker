@@ -14,7 +14,7 @@ ____
 
 | название компонента(component name)  | размерность(dimension) |
 | :------------------: | :---------: |
-|Acidity value|un |
+|Acidity value|mg(KOH)/1g(Fat) |
 |Protein|%|
 |Fat|%|
 |Ash|%|
@@ -22,7 +22,7 @@ ____
 |Calcium|%|
 |Phosphorus|%|
 |Digestibility|un|
-|Histamine|ppm/kg|
+|Histamine|ppm|
 
 ***Важное уточнение!***
 Необходимо строго следить за синтаксисом при именовании добавляемых компонентов,старайтесь использовать  данные из `таблицы` выше.
